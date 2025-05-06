@@ -1,0 +1,15 @@
+id	title	author	text	state	date_published	source	category	sentiment_score	word_count	char_count	has_images	has_videos	readability_score	num_shares	num_comments	political_bias	fact_check_rating	is_satirical	trust_score
+1	Breaking News 1	Jane Smith	This is the content of article 1. It contains detailed analysis and reports.	Tennessee	30-11-2021	The Onion	Entertainment	-0.22	1302	5070	0	0	66.18	47305	450	Center	FALSE	1	76
+2	Breaking News 2	Emily Davis	This is the content of article 2. It contains detailed analysis and reports.	Wisconsin	02-09-2021	The Guardian	Technology	0.92	322	2722	1	0	41.1	39804	530	Left	Mixed	1	1
+3	Breaking News 3	John Doe	This is the content of article 3. It contains detailed analysis and reports.	Missouri	13-04-2021	New York Times	Sports	0.25	228	5904	0	1	30.04	45860	763	Center	Mixed	0	57
+4	Breaking News 4	Alex Johnson	This is the content of article 4. It contains detailed analysis and reports.	North Carolina	08-03-2020	CNN	Sports	0.94	155	825	1	0	75.16	34222	945	Center	TRUE	1	18
+5	Breaking News 5	Emily Davis	This is the content of article 5. It contains detailed analysis and reports.	California	23-03-2022	Daily Mail	Technology	-0.01	962	1087	1	0	43.9	35934	433	Right	Mixed	0	95
+6	Breaking News 6	John Doe	This is the content of article 6. It contains detailed analysis and reports.	North Carolina	23-03-2022	New York Times	Sports	0.83	920	4022	0	0	42.88	13148	28	Right	FALSE	0	8
+7	Breaking News 7	Emily Davis	This is the content of article 7. It contains detailed analysis and reports.	Maryland	06-10-2022	Fox News	Business	0.81	651	5652	0	1	62.39	13627	665	Center	Mixed	0	1
+8	Breaking News 8	John Doe	This is the content of article 8. It contains detailed analysis and reports.	Maryland	25-09-2022	The Onion	Politics	-0.96	717	737	1	0	75.07	6035	323	Center	TRUE	1	79
+9	Breaking News 9	John Doe	This is the content of article 9. It contains detailed analysis and reports.	Tennessee	30-08-2021	HuffPost	Politics	-0.64	1093	4362	0	0	73.93	49000	881	Center	TRUE	1	96
+10	Breaking News 10	Jane Smith	This is the content of article 10. It contains detailed analysis and reports.	Maryland	18-03-2022	New York Times	Business	-0.5	1421	830	0	1	51.94	30508	782	Center	FALSE	1	88
+11	Breaking News 11	John Doe	This is the content of article 11. It contains detailed analysis and reports.	Texas	02-01-2020	The Guardian	Business	-0.43	247	7515	0	1	74.96	38623	260	Right	Mixed	1	15
+12	Breaking News 12	John Doe	This is the content of article 12. It contains detailed analysis and reports.	Tennessee	20-02-2021	CNN	Entertainment	0.85	819	4229	1	0	34.22	16170	101	Right	FALSE	0	49
+13	Breaking News 13	Chris Lee	This is the content of article 13. It contains detailed analysis and reports.	Virginia	07-08-2020	Snopes	Technology	0.05	651	1248	0	0	75.07	20653	223	Center	TRUE	0	51
+14	Breaking News 14	Chris Lee	This is the content of article 14. It contains detailed analysis and reports.	Virginia	21-11-2021	The Guardian	Entertainment	0.49	968	4579	1	0	64.78	28822	146	Left	TRUE	1	63
